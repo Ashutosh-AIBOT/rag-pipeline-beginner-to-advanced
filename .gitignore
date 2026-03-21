@@ -7,10 +7,13 @@ env/
 .env
 
 # IDE
-.vscode/
 .idea/
 
 # Local testing
 .DS_Store
 *.log
 instance/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

@@ -77,8 +77,3 @@ streamlit run app.py
 
 > *"Research in minutes. Not hours."*
 ```
-
-**Commit message:**
-```
-docs: add professional README with multi-source research pipeline and links
-```
